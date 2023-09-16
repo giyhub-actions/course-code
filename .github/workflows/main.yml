@@ -10,7 +10,7 @@ jobs:
       - name : Multiline command
         run: |
           node -v
-          node -v
+          npm -v
         
       
     
